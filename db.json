@@ -1,0 +1,416 @@
+{
+  "publications": [
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "Sunday :) title",
+      "overview": "First Something detailed text. This is a longer description providing more information about the content. It includes details about the images and their significance. The content array contains URLs to images related to this publication. These images are hosted on an external server and are being loaded with lazy loading enabled for improved performance.",
+      "content": [
+        "https://images.pexels.com/photos/17977593/pexels-photo-17977593.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "https://images.pexels.com/photos/12576774/pexels-photo-12576774.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "https://images.pexels.com/photos/10821195/pexels-photo-10821195.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+      ],
+      "likes": 81,
+      "comments": [
+        {
+          "content": "All photos very beautiful",
+          "authorId": 5,
+          "likes": 0,
+          "time": "",
+          "answers": [
+            {
+              "content": "I agree with you",
+              "authorId": 3,
+              "likes": 2,
+              "time": "",
+              "answers": [],
+              "id": 8
+            },
+            {
+              "content": "♡",
+              "authorId": 5,
+              "likes": 74,
+              "time": "",
+              "answers": [],
+              "id": 9
+            },
+            {
+              "content": "How always so beautiful",
+              "authorId": 1,
+              "likes": 9,
+              "time": "",
+              "answers": [],
+              "id": 10
+            },
+            {
+              "content": "I agree with you",
+              "authorId": 3,
+              "likes": 2,
+              "time": "",
+              "answers": [],
+              "id": 18
+            },
+            {
+              "content": "♡",
+              "authorId": 5,
+              "likes": 74,
+              "time": "",
+              "answers": [],
+              "id": 99
+            },
+            {
+              "content": "How always so beautiful",
+              "authorId": 1,
+              "likes": 9,
+              "time": "",
+              "answers": [],
+              "id": 120
+            },
+            {
+              "content": "I agree with you",
+              "authorId": 3,
+              "likes": 2,
+              "time": "",
+              "answers": [],
+              "id": 8888
+            },
+            {
+              "content": "♡",
+              "authorId": 5,
+              "likes": 74,
+              "time": "",
+              "answers": [],
+              "id": 999
+            },
+            {
+              "content": "How always so beautiful",
+              "authorId": 1,
+              "likes": 9,
+              "time": "",
+              "answers": [],
+              "id": 452
+            },
+            {
+              "content": "I agree with you",
+              "authorId": 3,
+              "likes": 2,
+              "time": "",
+              "answers": [],
+              "id": 90
+            },
+            {
+              "content": "♡",
+              "authorId": 5,
+              "likes": 74,
+              "time": "",
+              "answers": [],
+              "id": 765
+            },
+            {
+              "content": "How always so beautiful",
+              "authorId": 1,
+              "likes": 9,
+              "time": "",
+              "answers": [],
+              "id": 843
+            }
+          ],
+          "id": 1
+        },
+        {
+          "content": "Uh, you so pretty",
+          "time": "",
+          "answers": [
+            {
+              "content": "I agree with you",
+              "authorId": 3,
+              "likes": 2,
+              "time": "",
+              "answers": [],
+              "id": 8
+            },
+            {
+              "content": "♡",
+              "authorId": 5,
+              "likes": 74,
+              "time": "",
+              "answers": [],
+              "id": 9
+            },
+            {
+              "content": "How always so beautiful",
+              "authorId": 1,
+              "likes": 9,
+              "time": "",
+              "answers": [],
+              "id": 10
+            }
+          ],
+          "authorId": 5,
+          "likes": 4,
+          "id": 2
+        },
+        {
+          "content": "Your appearance is simply stunning! Such beauty that words can't describe. Your smile lights up the whole world, and your eyes are filled with inner beauty and warmth. You truly inspire us with your elegance and style. Keep shining your light! ✨💖",
+          "time": "",
+          "answers": [
+            {
+              "content": "I agree with you",
+              "authorId": 3,
+              "likes": 2,
+              "time": "",
+              "answers": [],
+              "id": 8
+            },
+            {
+              "content": "♡",
+              "authorId": 5,
+              "likes": 74,
+              "time": "",
+              "answers": [],
+              "id": 9
+            },
+            {
+              "content": "How always so beautiful",
+              "authorId": 1,
+              "likes": 9,
+              "time": "",
+              "answers": [],
+              "id": 10
+            }
+          ],
+          "authorId": 2,
+          "likes": 99,
+          "id": 3
+        },
+        {
+          "authorId": 14,
+          "content": "😤😫😈 Very good",
+          "likes": 0,
+          "answers": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "authorId": 5,
+      "title": "Common nose",
+      "overview": "Second Something detailed text. This is another longer description providing in-depth information about the content. The content array contains a single URL to an image related to this publication. The image is hosted on an external server and is being loaded with lazy loading enabled for improved performance.",
+      "content": [
+        "https://images.pexels.com/photos/18184356/pexels-photo-18184356.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+      ],
+      "likes": 15,
+      "comments": []
+    },
+    {
+      "id": 3,
+      "authorId": 2,
+      "title": "My life",
+      "overview": "Third Something detailed text. This is yet another longer description providing extensive information about the content. The content array contains URLs to images related to this publication. These images are hosted on an external server and are being loaded with lazy loading enabled for improved performance.",
+      "content": [
+        "https://images.pexels.com/photos/1974349/pexels-photo-1974349.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "https://images.pexels.com/photos/18198479/pexels-photo-18198479.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "https://images.pexels.com/photos/10632140/pexels-photo-10632140.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "https://images.pexels.com/photos/16621442/pexels-photo-16621442.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+      ],
+      "likes": 45,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "authorId": 1,
+      "title": "Fourth title",
+      "overview": "Fourth Something detailed text. This is a detailed description providing comprehensive information about the content. The content array contains URLs to images related to this publication. These images are hosted on an external server and are being loaded with lazy loading enabled for improved performance.",
+      "content": [
+        "https://images.pexels.com/photos/2659475/pexels-photo-2659475.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "https://images.pexels.com/photos/18372173/pexels-photo-18372173.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+      ],
+      "likes": 56,
+      "comments": []
+    },
+    {
+      "id": 5,
+      "authorId": 2,
+      "title": "Childhood",
+      "overview": "Fifth Something detailed text. This is a detailed description providing comprehensive information about the content. The content array contains URLs to images related to this publication. These images are hosted on an external server and are being loaded with lazy loading enabled for improved performance.",
+      "content": [
+        "https://images.pexels.com/photos/1918476/pexels-photo-1918476.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "https://images.pexels.com/photos/1918479/pexels-photo-1918479.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+      ],
+      "likes": 120,
+      "time": 1697201763698,
+      "comments": [
+        {
+          "authorId": 14,
+          "content": "New comment 😈",
+          "likes": 0,
+          "answers": []
+        }
+      ]
+    },
+    {
+      "overview": "",
+      "title": "New post",
+      "authorId": 14,
+      "content": [
+        "blob:http://localhost:5173/157cc6a6-8b3e-488e-848f-3540fa4e2c1b",
+        "blob:http://localhost:5173/3dbfd610-fb37-4031-afaa-aac2e3f5d0ca"
+      ],
+      "likes": 0,
+      "time": 1697450212190,
+      "comments": [],
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Aleks",
+      "email": "aleks@gmail.com",
+      "about": "Something about me",
+      "password": "12345678910abc",
+      "posts": [
+        {
+          "id": 1,
+          "content": "https://images.pexels.com/photos/17977593/pexels-photo-17977593.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        },
+        {
+          "id": 4,
+          "content": "https://images.pexels.com/photos/2659475/pexels-photo-2659475.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        }
+      ],
+      "age": 28,
+      "followers": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "following": [
+        2,
+        4,
+        5
+      ],
+      "private": true,
+      "avatar": "https://images.pexels.com/photos/17987088/pexels-photo-17987088.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    },
+    {
+      "id": 2,
+      "name": "Alina",
+      "password": "12345678910abc",
+      "email": "alina@gmail.com",
+      "posts": [
+        {
+          "id": 3,
+          "content": "https://images.pexels.com/photos/1974349/pexels-photo-1974349.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        },
+        {
+          "id": 5,
+          "content": "https://images.pexels.com/photos/1918476/pexels-photo-1918476.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        }
+      ],
+      "about": "Something about me",
+      "age": 14,
+      "private": false,
+      "avatar": "https://images.pexels.com/photos/4921286/pexels-photo-4921286.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 3,
+      "name": "Maksim",
+      "age": 22,
+      "password": "12345678910abc",
+      "email": "maksim@gmail.com",
+      "posts": [],
+      "private": false,
+      "about": "Something about me",
+      "avatar": "https://images.pexels.com/photos/16153033/pexels-photo-16153033.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    },
+    {
+      "id": 4,
+      "posts": [],
+      "name": "Alena",
+      "private": false,
+      "email": "alena@gmail.com",
+      "password": "12345678910abc",
+      "about": "Something about me",
+      "age": 21,
+      "avatar": "https://images.pexels.com/photos/18423796/pexels-photo-18423796.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    },
+    {
+      "id": 5,
+      "name": "Lera",
+      "about": "Something about me",
+      "private": true,
+      "password": "12345678910abc",
+      "email": "lera@gmail.com",
+      "posts": [
+        {
+          "id": 2,
+          "content": "https://images.pexels.com/photos/18184356/pexels-photo-18184356.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        }
+      ],
+      "age": 24,
+      "avatar": "https://images.pexels.com/photos/18436938/pexels-photo-18436938.png?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    },
+    {
+      "email": "artur@gmail.com",
+      "name": "Artur",
+      "password": "12345678910abc",
+      "login": "arturxxxXasanov",
+      "age": null,
+      "about": "",
+      "private": false,
+      "posts": [],
+      "avatar": "",
+      "id": 10
+    },
+    {
+      "phone": "05479497049570",
+      "name": "hrjhthk",
+      "login": "tyjtyjrtyjrtyj",
+      "password": "rtyjrtyjrtyj234567",
+      "age": null,
+      "about": "",
+      "private": false,
+      "posts": [],
+      "avatar": "",
+      "id": 11
+    },
+    {
+      "email": "vasya@gmail.com",
+      "name": "Vasya luchok",
+      "login": "krutoi76",
+      "password": "12345678910abc",
+      "age": null,
+      "about": "",
+      "private": false,
+      "posts": [],
+      "avatar": "",
+      "id": 13
+    },
+    {
+      "email": "ruslan@gmail.com",
+      "name": "Ruslan",
+      "login": "asdf_as2",
+      "password": "12345678910abc",
+      "age": null,
+      "about": "",
+      "private": false,
+      "posts": [],
+      "avatar": "",
+      "id": 14
+    },
+    {
+      "email": "dayurchic@gmail.com",
+      "name": "123",
+      "login": "lasdfj",
+      "password": "12345678910abc",
+      "age": null,
+      "about": "",
+      "private": false,
+      "posts": [],
+      "avatar": "",
+      "id": 15
+    }
+  ]
+}

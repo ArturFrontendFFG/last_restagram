@@ -1,0 +1,1 @@
+export const FontFamily = '"Poppins",sans-serif'
